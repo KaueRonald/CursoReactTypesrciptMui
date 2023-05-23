@@ -1,7 +1,6 @@
 export const App = () => {
   return (
-    <div >
-      Teste
-    </div>
+    <p>dasdsadasd</p>
+    
   )
 }
